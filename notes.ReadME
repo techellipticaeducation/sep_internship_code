@@ -1,0 +1,7 @@
+-- to create image
+docker build -t techelliptica .
+
+
+-- to run container based on image
+docker run techelliptica
+
