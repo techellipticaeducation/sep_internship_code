@@ -28,7 +28,28 @@ public class OperatorDemo {
 			System.out.println("Odd");
 		}
 		
- 		
+ 		// Swap values
+		int m1 = 10;
+		int m2 = 8;
 		
-	}
+		// m2 = 10, m1 = 8
+//		int m3 = m1;        //m1 = 10, m2 = 8, m3 = 10
+//		m1 = m2;            // m1 = 8, m2 = 8, m3 = 10
+//		m2 = m3;            // m1 = 8, m2 = 10
+		
+		// fresher interview , 
+		
+		// without using 3rd variable 
+		
+		
+//		m1 = m1 * m2; // m1 = 80, m2 = 8
+//		m2 = m1 / m2; // m1 = 80, m2 = 10
+//		m1 = m1 / m2; // m1 = 8 , m2 = 10;
+		
+		
+		
+		
+		
+		
+ 	}
 }
